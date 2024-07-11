@@ -1,1 +1,2 @@
-theme: jekyll-theme-none
+#theme: jekyll-theme-none
+remote_theme: hydecorp/hydejack
