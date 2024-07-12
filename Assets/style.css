@@ -24,8 +24,10 @@ header h1 {
 }
 
 .banner img {
+  display: flex;
   height: 200px;
   width: 1690px;
+  max-width: 100%
 }
 
 section h1 {
