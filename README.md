@@ -8,7 +8,7 @@ This page was created to display Noah McKinzie's portfolio of work samples to a 
 
 Screenshot:
 
-![Screenshot of deployed application](Screenshot.pdf)
+![Screenshot of deployed application](Screenshot.png)
 
 Link to application:
 
